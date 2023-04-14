@@ -1,7 +1,6 @@
 #   pour faire de l'héritage: trouver des méthodes ou attributs
 #   en commun
 # Faire base de donnée avec les scores et les stratégies
-#coucouuu
 import numpy as np
 
 class Player(object):
