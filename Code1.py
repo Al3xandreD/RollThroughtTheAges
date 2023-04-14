@@ -9,7 +9,7 @@
 # recursif ?
 # checkez fin de tour, si les joueurs doivent finir de jouer ou pas
 
-
+#je rajoute
 import numpy as np
 
 
