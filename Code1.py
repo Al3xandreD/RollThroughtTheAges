@@ -10,6 +10,7 @@
 # checkez fin de tour, si les joueurs doivent finir de jouer ou pas
 
 #je rajoute
+# je rajoute2
 import numpy as np
 
 
